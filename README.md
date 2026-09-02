@@ -10,4 +10,6 @@ Clinic would be the client object.
 Refer to the UML Class Diagram
 
 ## Class Diagram
-![image](https://github.com/JerryEsperanza/factoryPattern/assets/142370600/0506f134-a5f6-4d98-a817-cd6f7a8466c7)
+<img width="1874" height="740" alt="image" src="https://github.com/user-attachments/assets/9a710791-5559-41b1-8123-48c6338139c3" />
+
+
